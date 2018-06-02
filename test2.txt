@@ -1,2 +1,6 @@
 Test 2
+<<<<<<< HEAD
 New updates
+=======
+test 2 version 2
+>>>>>>> 5c29b7671a78ade65b0888fed953cbe7b283ccda
